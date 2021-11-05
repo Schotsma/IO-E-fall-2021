@@ -6,7 +6,7 @@
 /* ===
 ml5 Example
 This code uses p5js example code and the leftWrist and rightWrist to draw on the screen
-The user is able to draw randomly coloured circles
+The user is able to draw randomly coloured circles by moving their hand around the screen 
 === */
 
 let video;
