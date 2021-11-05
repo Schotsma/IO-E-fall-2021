@@ -6,6 +6,8 @@
 /* ===
 First Sprint done by Colin Schotsman
 based on ml5 example code and webcam pixel array code by enickles https://editor.p5js.org/enickles/sketches/-5G_xggEe
+The user can change the colour of the pixels by moving their nose position from the left to right of the screen, the user can also change the saturation of the pixels
+by moving their nose up and down on the y axis
 === */
 
 let cam;
