@@ -5,8 +5,8 @@
 
 
 //Third Sprint for Colin 
-//This code allows the user to draw lines with their nose, they can also change the colour of the
-//change colour of line by moving hand into different sections of the screen and press button to clear
+//This code allows the user to draw lines with their nose, they can also change the colour depending on the x and y position of their nose on the screen, the size of the stroke also
+//also increases the size of the stroke weight depending on the y position of the user's nose
 
 let video;
 let poseNet; 
