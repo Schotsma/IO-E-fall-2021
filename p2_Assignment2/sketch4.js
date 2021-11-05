@@ -6,6 +6,8 @@
 /* ===
 Fourth Sprint done by Colin Schotsman
 based on ml5 example code and Spiral Mirror code by enickles https://editor.p5js.org/enickles/sketches/tQZhSIcyG
+The user can rotate the angles of the circles by moving from left to right on the x axis. Users can also increase the amount of mirror circles 
+by moving their nose up and down on the y axis. 
 === */
 
 
