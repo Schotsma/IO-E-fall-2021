@@ -5,7 +5,7 @@
 
 /* ===
 Second Sprint for Colin
-Trying to draw images in a grid using the right wrist from posenet base on code from ml5 and code by monicagwen https://editor.p5js.org/monicawen/sketches/HJyPp-J1E
+Trying to draw images of the clown face in a grid using the right wrist from posenet base on code from ml5 and code by monicagwen https://editor.p5js.org/monicawen/sketches/HJyPp-J1E
 === */
 
 let video;
